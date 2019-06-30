@@ -8,6 +8,6 @@ The lab is divided in three parts.</p>
 <p>In the second part, the students are given the "Shelter Animal Outcomes" dataset (taken from the kaggle website https://www.kaggle.com/c/shelter-animal-outcomes) and have to perform data preprocessing on it using <strong> scikit-learn</strong> and <strong> pandas</strong>.
 The goal is to make the data usable for Machine Learning models training. The students need to justify their choices for every single attribute.</p>
 
-<p>In the third part the students must train a few  Machine Learning models using the preprocessed data and <strong> scikit-learn</strong> along with the model implemented in the first part. Then they will have to improve the performance of one selected model.</p>
+<p>In the third part the students must train a few  Machine Learning models using the preprocessed data and <strong> scikit-learn</strong> along with the model implemented in the first part. Then they have to improve the performance of one selected model.</p>
 
-<p> The solution can be found in the folder <strong>solution<\strong>.<\p>
+<p> The solution can be found in the folder <strong> solution <\strong>.<\p>
