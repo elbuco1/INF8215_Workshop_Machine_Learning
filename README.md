@@ -10,3 +10,4 @@ The goal is to make the data usable for Machine Learning models training. The st
 
 <p>In the third part the students must train a few  Machine Learning models using the preprocessed data and <strong> scikit-learn</strong> along with the model implemented in the first part. Then they will have to improve the performance of one selected model.</p>
 
+<p> The solution can be found in the folder <strong>solution<\strong>.<\p>
