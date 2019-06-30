@@ -1,5 +1,5 @@
 # INF8215_Laboratory_3_Machine_Learning
-<p> Laboratory prepared for the Machine Learning lab of the **"INF8215- AI: Methods and Algorithms"** class given in Polytechnique Montreal in Fall 2018. </p>
+<p> Laboratory prepared for the Machine Learning lab of the ** "INF8215- AI: Methods and Algorithms" ** class given in Polytechnique Montreal in Fall 2018. </p>
   
 <p> The main file **LAB3.ipynb** gives the instructions for the whole lab.
 The lab is divided in three parts.</p>
